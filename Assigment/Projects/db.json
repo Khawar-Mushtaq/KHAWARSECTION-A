@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "first": "Mr.",
+      "middle": "KHAWAR",
+      "last": "MUSHTAQ",
+      "fatherName": "HAJI MUSHTAQ AHMAD",
+      "mobile": "03357902571",
+      "gender": "MALE",
+      "phone": "03467696725",
+      "dateofBirth": "01-01-2022",
+      "birthplace": "RAJANPUR",
+      "maerialstatus": "SINGLE",
+      "postalAddress": "ALIPUR",
+      "pernanentAddress": "MULTAN",
+      "religion": "Islam",
+      "nationality": "pakistani"
+    },
+    {
+      "first": "Mr.",
+      "middle": "KHAWAR",
+      "last": "MUSHTAQ",
+      "fatherName": "HAJI MUSHTAQ AHMAD",
+      "mobile": "03357902571",
+      "gender": "MALE",
+      "phone": "03467696725",
+      "dateofBirth": "01-01-2022",
+      "birthplace": "RAJANPUR",
+      "maerialstatus": "SINGLE",
+      "postalAddress": "ALIPUR",
+      "pernanentAddress": "MULTAN",
+      "religion": "Islam",
+      "nationality": "pakistani"
+    }
+  ],
+  "comments": [
+    {
+      "degreetitle": "Matric",
+      "degree": "Science",
+      "Major": "math,physics",
+      "startdate": "01/01/2023",
+      "enddate": "01/06/2025",
+      "obtain": "800",
+      "Total": "1100",
+      "division": "1st",
+      "University": "IUB"
+    }
+  ],
+  "experiances": [
+    {
+      "OrganizationName": "NAVTCC",
+      "Designation": "Enumerator",
+      "startdate": "01/01/2022",
+      "enddate": "01/06/2022"
+    }
+  ]
+  
+}
